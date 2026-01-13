@@ -1,0 +1,8 @@
+{
+  "AwsCognitoAuthStack": {
+    "UserPoolClientId": "7r9co6o5p5c5kraeutiel7r8o0",
+    "UserPoolId": "ap-south-1_M4rYbsueX",
+    "BucketName": "awscognitoauthstack-useruploadbuckete3442774-aqsy4snevoqo",
+    "IdentityPoolId": "ap-south-1:47dd81b6-84a2-47a6-962e-efd323b33bf2"
+  }
+}
